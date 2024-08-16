@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "363605058948",
+    "project_id": "transcribe-894d3",
+    "storage_bucket": "transcribe-894d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363605058948:android:39a58f52478482b628a9d1",
+        "android_client_info": {
+          "package_name": "com.example.transcribe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmZwGjlYuW1qfl3pVSTboyhlJDJK8dPf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+    
+  ],
+  "configuration_version": "1"
+}
